@@ -1,0 +1,35 @@
+.body-box-main-container{
+  display: flex;
+  flex-direction: column;
+}
+.body-box-container{
+  width:95%;
+  height:70px;
+  background-color:blue;
+  border-radius: 8px;
+  margin-top: 20px;
+  padding: 5px 10px 5px 10px;
+  text-align: left;
+}
+.boby-box-tittle{
+  font-size: 10px;
+  color: #fff;
+  margin-bottom: 0px;
+}
+.boby-box-habit-block{
+  display: flex;
+  justify-content: space-between;
+}
+.body-box-habit{
+  font-size: 15px;
+  color:#fff;
+  font-family: serif;
+  font-weight: 600;
+  margin-top: 5px;
+
+}
+.boby-box-status{
+  font-size: 13px;
+  color:#fff;
+  font-family: serif;
+}

@@ -1,0 +1,23 @@
+.nav-container{
+  background-image: linear-gradient( black, navy);
+  width: 135px;
+  padding-top: 20px;
+  height: 100%;
+  box-sizing: border-box;
+
+}
+.nav-tittle{
+  margin-bottom: 30px;
+  color: white;
+  font-family: serif;
+}
+.nav-tittle2{
+  margin-bottom: 30px;
+  color: Aqua ;
+  font-family: serif;
+
+}
+.tittle-container{
+  margin-bottom: 20px;
+  margin-top: 10px;
+}

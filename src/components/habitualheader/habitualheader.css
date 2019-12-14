@@ -1,0 +1,35 @@
+.header-container{
+  width: 100%;
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+}
+.header-date{
+  font-size: 11px;
+  margin-left: 130px;
+  margin-top: 20px;
+  box-sizing: border-box;
+  border: 1px solid lightgray;
+  padding:5px 3px 5px 30px;
+  height: 23px;
+  text-align: left;
+  color: gray;
+  border-radius: 4px;
+  box-shadow: 0.2px 0px 2px gray;
+}
+.header-profile-image{
+  height:40px;
+  width:40px;
+  margin-top:18px;
+}
+.header-profile-name{
+  font-size: 12px;
+  font-family: bold;
+  font-weight:900;
+  color:gray;
+  margin-top: 33px;
+  margin-left: 500px;
+  margin-right: 5px;
+
+
+}

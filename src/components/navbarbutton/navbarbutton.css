@@ -1,0 +1,25 @@
+.navbutton{
+  width:135px;
+  background-color: inherit;
+  outline: none;
+  border:none;
+  color: gray;
+
+}
+.navbuttonselected{
+  width:135px;
+  outline: none;
+  background-color: #000033;
+  border-left: 6px  solid skyblue;
+  border-top: none;
+  border-bottom: none;
+  border-right: none;
+  color: white;
+
+}
+.navbutton-text{
+  font-size: 14px;
+  font-family:serif;
+  letter-spacing: 1px;
+  font-weight: 500;
+}

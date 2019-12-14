@@ -1,0 +1,13 @@
+
+.sub-container{
+  background-color: white;
+  width:1280px;
+  height:100%;
+  display: flex;
+  flex-direction: row;
+
+}
+.body-container{
+  display: flex;
+  flex-direction: column;
+}
